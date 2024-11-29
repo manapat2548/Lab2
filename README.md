@@ -208,3 +208,11 @@ Emoji:
 :mask: 
 
 ⌫⌫⌘
+
+
+
+
+
+
+
+Natthaphong Kangkantam 662115015
